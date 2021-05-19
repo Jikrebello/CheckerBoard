@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\C# Intermediate Programming\CheckerBoard\bin\Debug\CheckerBoard.exe.config
+E:\Visual Studio Projects\C# Intermediate Programming\CheckerBoard\bin\Debug\CheckerBoard.exe
+E:\Visual Studio Projects\C# Intermediate Programming\CheckerBoard\bin\Debug\CheckerBoard.pdb
+E:\Visual Studio Projects\C# Intermediate Programming\CheckerBoard\obj\Debug\CheckerBoard.csprojAssemblyReference.cache
+E:\Visual Studio Projects\C# Intermediate Programming\CheckerBoard\obj\Debug\CheckerBoard.Form1.resources
+E:\Visual Studio Projects\C# Intermediate Programming\CheckerBoard\obj\Debug\CheckerBoard.Properties.Resources.resources
+E:\Visual Studio Projects\C# Intermediate Programming\CheckerBoard\obj\Debug\CheckerBoard.csproj.GenerateResource.cache
+E:\Visual Studio Projects\C# Intermediate Programming\CheckerBoard\obj\Debug\CheckerBoard.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C# Intermediate Programming\CheckerBoard\obj\Debug\CheckerBoard.exe
+E:\Visual Studio Projects\C# Intermediate Programming\CheckerBoard\obj\Debug\CheckerBoard.pdb
